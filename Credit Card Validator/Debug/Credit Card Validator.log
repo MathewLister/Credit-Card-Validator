@@ -1,0 +1,7 @@
+﻿  Main.cpp
+  Validator.cpp
+C:\Users\angry\Documents\VS Projects\Credit Card Validator\Credit Card Validator\Validator.cpp(16,20): warning C4018:  '<': signed/unsigned mismatch
+  Generating Code...
+C:\Users\angry\Documents\VS Projects\Credit Card Validator\Credit Card Validator\Validator.cpp(53,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\angry\Documents\VS Projects\Credit Card Validator\Credit Card Validator\Validator.cpp(53,20): warning C4018: C:\Users\angry\Documents\VS Projects\Credit Card Validator\Credit Card Validator\Validator.cpp(28) : warning C4715: 'Validator::CheckNums': not all control paths return a value
+  Credit Card Validator.vcxproj -> C:\Users\angry\Documents\VS Projects\Credit Card Validator\Debug\Credit Card Validator.exe
